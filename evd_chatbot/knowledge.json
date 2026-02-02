@@ -1,0 +1,24 @@
+{
+  "company": {
+    "name": "EVD Technology",
+    "location": "Korba, Chhattisgarh, India",
+    "experience": "10+ years",
+    "clients": ["Coreco", "Vedanta", "NTPC", "Genxture", "Major Kalshi Classes","Scrollify","Veda Academy","Murgi Bazar","Dovemed","Travel Bastar","The Custome Bakers","Deliver My Tune","indPOTrace","Chhattisgarh Herbals","Khushi","PCMW","Aifise","WR","Paridhi Groups"],
+    "support": "24/7",
+    "contact": "Mon-Sat: 10am-7pm"
+  },
+  "services": {
+    "web_development": "Custom websites, e-commerce, enterprise web apps, responsive design",
+    "mobile_apps": "Android & iOS native/hybrid apps",
+    "digital_marketing": "SEO, social media, goal-oriented campaigns",
+    "erp_crm": "Custom LMS/ERP solutions, business process automation",
+    "ui_ux": "Wireframes, prototypes, user-centered design",
+    "saas": "B2B/B2C platforms, scalable cloud solutions"
+  },
+  "testimonials": [
+    "Professional team, excellent communication - long-term partner",
+    "Complete LMS/ERP solution, always care about requirements",
+    "Right attitude and technical capabilities for any challenge"
+  ],
+  "process": ["Analysis", "Design", "Implementation", "Testing", "Maintenance"]
+}

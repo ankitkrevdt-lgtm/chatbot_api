@@ -1,0 +1,6 @@
+echo fastapi==0.115.0 > requirements.txt
+echo uvicorn==0.30.6 >> requirements.txt
+echo python-multipart==0.0.9 >> requirements.txt
+echo openai==1.10.0 >> requirements.txt
+echo tiktoken==0.7.0 >> requirements.txt
+echo python-dotenv==1.0.1 >> requirements.txt
